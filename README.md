@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @AyanBhuyan700
-- 👀 I’m interested in frontend development
+- 👋 Hi, I’m Ayan Bhuyan
+- 👀 I’m interested in mern stack development
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 AyanBhuyan700/AyanBhuyan700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
