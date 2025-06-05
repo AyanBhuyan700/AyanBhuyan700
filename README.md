@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ayan Bhuyan
-- 👀 I’m interested in mern stack development
-- 🌱 I’m currently learning reactjs
+👋 Hi, I'm Ayan Bhuyan  
+🚀 Full Stack Developer (MERN) | Passionate about building scalable, performant, and user-friendly web applications
 
-<!---
-AyanBhuyan700/AyanBhuyan700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Tech Stack: **MongoDB | Express.js | React.js | Node.js**
+- 🌱 Currently exploring: **Machine Learning** and **Python for DSA**
+- 🧠 I love solving real-world problems with clean, maintainable code
+- 🛠️ Projects: E-commerce App, Real Estate Platform, CampusConnect, and more!
+
